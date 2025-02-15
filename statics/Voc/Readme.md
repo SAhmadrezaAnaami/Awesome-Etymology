@@ -1,5 +1,9 @@
 # Voc And Vok 
 
+## Audio File
+
+🎵 [Listen to the audio](Voc and Vok_ Exploring Roots of Advocacy, Voice, and Provocation.wav)
+
 ![Voc And Vok 1](Voc%20And%20Vok%201.png)
 
 Here's a blog post for the etymology collection, based on the provided source material:
