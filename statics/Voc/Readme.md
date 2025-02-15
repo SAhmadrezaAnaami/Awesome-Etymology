@@ -1,5 +1,7 @@
 # Voc And Vok 
 
+![Voc And Vok 1](Voc%20And%20Vok%201.png)
+
 Here's a blog post for the etymology collection, based on the provided source material:
 
 ### Voc and Vok: An Etymological Exploration
@@ -32,7 +34,5 @@ The roots "voc" and "vok" are associated with words related to **voice, speech, 
 
 *   **Irrevocable:** An adjective meaning "برگشت ناپذیر" (impossible to revoke or reverse). For example, "investing in stock market is irrevocable".
 
-
-![Voc And Vok 1](Voc%20And%20Vok%201.png)
 
 ![Voc And Vok 2](Voc%20And%20Vok%202.png)
